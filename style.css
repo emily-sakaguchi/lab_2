@@ -1,9 +1,9 @@
-/*This will make the map fill the screen regardless of device specifications through the use of perecentage for width*/
 .map {
     position: absolute; 
     top: 6.5%; /* offset to provide room for Navbar*/
     bottom: 0;
-    width: 100%;
+    width: 100%; /*This will make the map fill the screen regardless of device specifications through the use of % */
+
 }
 
 /* This is code to style the about and form sections' general features like background and text */
